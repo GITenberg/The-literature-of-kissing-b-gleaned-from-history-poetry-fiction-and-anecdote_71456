@@ -1,5 +1,8 @@
 _repo: The-literature-of-kissing-b-gleaned-from-history-poetry-fiction-and-anecdote_71456
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71456-h/images/cover.jpg
 creator:
   author:
     agent_name: Bombaugh, Charles C. (Charles Carroll)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '49045'
     url: http://www.gutenberg.org/2009/agents/49045
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71456#The-literature-of-kissing-b-gleaned-from-history-poetry-fiction-and-anecdote
 gutenberg_issued: '2023-08-20'
 identifiers:
   gutenberg: '71456'
